@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 394158884}
   - component: {fileID: 394158883}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: VideoPlayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

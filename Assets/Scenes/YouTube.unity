@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 394158883}
   - component: {fileID: 394158888}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: YoutubePlayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
